@@ -125,6 +125,10 @@ footer:hover {
     border-radius: 5px;
 }
 
+#subscription-form label input:focus {
+    border-color: var(--dark-color);
+}
+
 #sub-button {
     height: 2.5rem;
     padding: 5px 15px;
